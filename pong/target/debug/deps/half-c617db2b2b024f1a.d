@@ -1,0 +1,13 @@
+/home/melchord/Rust/rust-pong/pong/target/debug/deps/libhalf-c617db2b2b024f1a.rmeta: /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/vec.rs
+
+/home/melchord/Rust/rust-pong/pong/target/debug/deps/half-c617db2b2b024f1a.d: /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/vec.rs
+
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/vec.rs:

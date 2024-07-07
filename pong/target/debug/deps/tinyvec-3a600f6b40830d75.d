@@ -1,0 +1,11 @@
+/home/melchord/Rust/rust-pong/pong/target/debug/deps/libtinyvec-3a600f6b40830d75.rmeta: /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs
+
+/home/melchord/Rust/rust-pong/pong/target/debug/deps/tinyvec-3a600f6b40830d75.d: /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs /home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs
+
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/lib.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/array/generated_impl.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/arrayvec_drain.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/slicevec.rs:
+/home/melchord/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.7.0/src/tinyvec.rs:
